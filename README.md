@@ -1,2 +1,2 @@
 # estudos-colab
-Controle  de uma agenda de telefones
+Repositorio criado para estudos da linguagem python com o google colab.
